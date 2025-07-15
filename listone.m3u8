@@ -201,6 +201,9 @@ http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https
 #EXTINF:-1 tvg-id="mediasetinfinity+2.it" tvg-name="Mediaset Infinity+ 2" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 2 (V)
 http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://vavoo.to/vavoo-iptv/play/2436070507988d651c6548&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="mediasetinfinity+5.it" tvg-name="Mediaset Infinity+ 5" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 5 (V)
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://vavoo.to/vavoo-iptv/play/588488827b855babc9df4&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="iris.it" tvg-name="Mediaset Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Intrattenimento;Mediaset",MEDIASET IRIS (V)
 http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -442,6 +445,9 @@ http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https
 http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 10 (V)
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://vavoo.to/vavoo-iptv/play/4272937805ce3f4b8a4a12&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila10.it" tvg-name="Sky Primafila 10 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 10 (V) (2)
 http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila12.it" tvg-name="Sky Primafila 12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 12 (V)
@@ -525,9 +531,6 @@ http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https
 #EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
 http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena (2)" tvg-logo="" group-title="Sport",SKY SPORT ARENA (V) (2)
-http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
 http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -563,6 +566,9 @@ http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https
 
 #EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba (2)" tvg-logo="" group-title="Sport",SKY SPORT NBA (V) (2)
 http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportseriea.it" tvg-name="Sky Sport Serie A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A (V)
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (V)
 http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -2445,6 +2451,99 @@ http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https
 
 #EXTINF:-1 tvg-id="Colombia - Primera B - Real Cundinamarca vs Jaguares de Córdoba" tvg-name="03:05 Colombia - Primera B : Real Cundinamarca vs Jaguares de Córdoba - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Win+ Futbol Colombia
 http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-392.php
+
+#EXTINF:-1 tvg-id="ATP - BASTAD - Ofner S. vs Dzumhur D." tvg-name="11:00 ATP - BASTAD : Ofner S. vs Dzumhur D. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Bastad", Tennis Stream 7
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - BASTAD - Ymer E. vs Boyer T." tvg-name="12:30 ATP - BASTAD : Ymer E. vs Boyer T. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Bastad", Tennis Stream 7
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - BASTAD - Ymer M. vs Van De Zandschulp B." tvg-name="14:00 ATP - BASTAD : Ymer M. vs Van De Zandschulp B. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Bastad", Tennis Stream 7
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - BASTAD - Misolic F. vs Moller E." tvg-name="15:30 ATP - BASTAD : Misolic F. vs Moller E. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Bastad", Tennis Stream 7
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - GSTAAD - Cerundolo J. M. vs Struff J-L." tvg-name="10:30 ATP - GSTAAD : Cerundolo J. M. vs Struff J-L. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Gstaad", Tennis Stream 8
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1508.php
+
+#EXTINF:-1 tvg-id="ATP - GSTAAD - Landaluce M. vs Goffin D." tvg-name="12:00 ATP - GSTAAD : Landaluce M. vs Goffin D. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Gstaad", Tennis Stream 8
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1508.php
+
+#EXTINF:-1 tvg-id="ATP - GSTAAD - Kym J. vs Hemery C." tvg-name="15:00 ATP - GSTAAD : Kym J. vs Hemery C. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Gstaad", Tennis Stream 8
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1508.php
+
+#EXTINF:-1 tvg-id="ATP - GSTAAD - Shevchenko A. vs Wawrinka S." tvg-name="17:30 ATP - GSTAAD : Shevchenko A. vs Wawrinka S. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Gstaad", Tennis Stream 8
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1508.php
+
+#EXTINF:-1 tvg-id="ATP - LOS CABOS - Habib H. vs Kovacevic A." tvg-name="03:00 ATP - LOS CABOS : Habib H. vs Kovacevic A. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Los Cabos", Tennis Stream 8
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1508.php
+
+#EXTINF:-1 tvg-id="ATP - LOS CABOS - Vukic A. vs Nava E." tvg-name="04:30 ATP - LOS CABOS : Vukic A. vs Nava E. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Los Cabos", Tennis Stream 8
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1508.php
+
+#EXTINF:-1 tvg-id="ATP - LOS CABOS - Daniel T. vs Hernandez A." tvg-name="06:00 ATP - LOS CABOS : Daniel T. vs Hernandez A. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Los Cabos", Tennis Stream 8
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1508.php
+
+#EXTINF:-1 tvg-id="WTA - HAMBURG - Nahimana S. vs Rus A." tvg-name="10:00 WTA - HAMBURG : Nahimana S. vs Rus A. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hamburg :", Tennis Stream 2
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="WTA - HAMBURG - Timofeeva M. vs Juvan K." tvg-name="10:00 WTA - HAMBURG : Timofeeva M. vs Juvan K. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hamburg :", Tennis Stream 3
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="WTA - HAMBURG - Krunic A. vs Galfi D." tvg-name="11:00 WTA - HAMBURG : Krunic A. vs Galfi D. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hamburg :", Tennis Stream 1
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - HAMBURG - Fossa Huergo N. vs Romero Gormaz L." tvg-name="11:30 WTA - HAMBURG : Fossa Huergo N. vs Romero Gormaz L. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hamburg :", Tennis Stream 2
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="WTA - HAMBURG - Noha Akugue N. vs Bondar A." tvg-name="12:30 WTA - HAMBURG : Noha Akugue N. vs Bondar A. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hamburg :", Tennis Stream 1
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - HAMBURG - Cengiz B. vs Kraus S." tvg-name="13:00 WTA - HAMBURG : Cengiz B. vs Kraus S. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hamburg :", Tennis Stream 2
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="WTA - HAMBURG - Boisson L. vs Grabher J." tvg-name="14:00 WTA - HAMBURG : Boisson L. vs Grabher J. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hamburg :", Tennis Stream 1
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - HAMBURG - Sharma A. vs Jacquemot E." tvg-name="14:30 WTA - HAMBURG : Sharma A. vs Jacquemot E. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hamburg :", Tennis Stream 2
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="WTA - HAMBURG - Serban R. vs Korpatsch T." tvg-name="17:00 WTA - HAMBURG : Serban R. vs Korpatsch T. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hamburg :", Tennis Stream 1
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - HAMBURG - Werner C. vs Steiner V." tvg-name="18:30 WTA - HAMBURG : Werner C. vs Steiner V. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Hamburg :", Tennis Stream 1
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - IASI - Kawa K. vs Siskova A." tvg-name="09:30 WTA - IASI : Kawa K. vs Siskova A. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Iasi :", Tennis Stream 6
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1506.php
+
+#EXTINF:-1 tvg-id="WTA - IASI - Popa G. S. vs Jimenez Kasintseva V." tvg-name="09:30 WTA - IASI : Popa G. S. vs Jimenez Kasintseva V. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Iasi :", Tennis Stream 5
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1505.php
+
+#EXTINF:-1 tvg-id="WTA - IASI - Tig P. M. vs Carle M. L." tvg-name="09:30 WTA - IASI : Tig P. M. vs Carle M. L. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Iasi :", Tennis Stream 4
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1504.php
+
+#EXTINF:-1 tvg-id="WTA - IASI - Avanesyan E. vs Prisacariu A." tvg-name="11:00 WTA - IASI : Avanesyan E. vs Prisacariu A. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Iasi :", Tennis Stream 4
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1504.php
+
+#EXTINF:-1 tvg-id="WTA - IASI - Parrizas-Diaz N. vs Burillo Escorihuela I." tvg-name="11:00 WTA - IASI : Parrizas-Diaz N. vs Burillo Escorihuela I. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Iasi :", Tennis Stream 6
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1506.php
+
+#EXTINF:-1 tvg-id="WTA - IASI - Waltert S. vs Sevastova A." tvg-name="11:00 WTA - IASI : Waltert S. vs Sevastova A. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Iasi :", Tennis Stream 5
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1505.php
+
+#EXTINF:-1 tvg-id="WTA - IASI - Lodikova D. vs Cristian J." tvg-name="15:30 WTA - IASI : Lodikova D. vs Cristian J. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Iasi :", Tennis Stream 4
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1504.php
+
+#EXTINF:-1 tvg-id="WTA - IASI - Jones F. vs Herrero Linana A." tvg-name="16:00 WTA - IASI : Jones F. vs Herrero Linana A. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Iasi :", Tennis Stream 5
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1505.php
+
+#EXTINF:-1 tvg-id="WTA - IASI - Rouvroy M. vs Udvardy P." tvg-name="16:00 WTA - IASI : Rouvroy M. vs Udvardy P. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Iasi :", Tennis Stream 6
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1506.php
+
+#EXTINF:-1 tvg-id="WTA - IASI - Cirstea S. vs Buzarnescu M." tvg-name="17:30 WTA - IASI : Cirstea S. vs Buzarnescu M. - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Iasi :", Tennis Stream 4
+http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-1504.php
 
 #EXTINF:-1 tvg-id="Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds" tvg-name="09:30 Courtside - Live Gstaad-ATP, Bastad-ATP, Hamburg-WTA & Iasi-WTA Early Rounds - 15/07/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 http://mfp.cryptospace.ovh/proxy/hls/manifest.m3u8?api_password=C4mp4r1!&d=https://thedaddy.click/stream/stream-40.php
